@@ -93,6 +93,8 @@ plt.show()
   - **Descriptive Analytics:** Aggregation of crime counts across multiple dimensions.
   - **Forecasting:** Linear regression was used to model historical trends and extend predictions over the next decade.
   - **Visualization:** Separate graphs were generated for each major grouping (Region, Subregion, Dimension, Sex, Category) to clearly present both past trends and future predictions.
+ 
+Download the [Crime_Prevention_Report.pdf](https://github.com/Sicelov/Crime-Data-Analysis-and-Prediction/blob/main/crime_prediction_report%20(1).pdf) to see the findings.
 
 ### Conclusion
 
@@ -100,6 +102,3 @@ This analysis not only presents historical trends but also provides a forecasted
 
 For further details, please refer to the code and accompanying visualizations in the repository.
 
----
-
-*Feel free to contribute, open issues for discussions, or provide suggestions for further enhancements.*
