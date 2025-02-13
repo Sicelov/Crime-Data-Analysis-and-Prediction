@@ -23,6 +23,10 @@ The primary objectives of this analysis are to:
 - **Forecast future crime counts** using linear regression models applied independently for each subgroup with sufficient data.
 - **Visualize** both historical trends and future predictions in clear, interpretable graphs, with the y-axis formatted to display full numbers (e.g., 1,700,000 instead of scientific notation).
 
+  ![Predicted_Crime](https://github.com/user-attachments/assets/9d25003a-e665-4406-94c8-58a9ede4c4f5)
+
+
+
 ### Data Sources
 
 Crime-Data-Analysis-and-Prediction data: The primary dataset used for this analysis is the "data_cts_violent_and_sexual_crime.xlsx" file, containing detailed information about crimes made in each region by dimensions, categories, etc, over time
