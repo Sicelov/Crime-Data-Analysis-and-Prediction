@@ -47,6 +47,7 @@ Crime-Data-Analysis-and-Prediction data: The primary dataset used for this analy
 - Fit a linear regression model
 - Predict next 10 years
 - Visualize actual data and predictions
+- [Download code here](https://github.com/Sicelov/Crime-Data-Analysis-and-Prediction/blob/main/WorldCrime.ipynb)
 
 ### Data Analysis
 
